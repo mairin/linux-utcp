@@ -31,6 +31,8 @@ ENV/
 *.swp
 *.swo
 *~
+.bmad-core/
+.claude/
 
 # Testing
 .pytest_cache/
